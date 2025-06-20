@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023450522374",
+    "project_id": "lab6-68275",
+    "storage_bucket": "lab6-68275.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023450522374:android:b6cdc2a2b5a58bad127487",
+        "android_client_info": {
+          "package_name": "com.uth.btvntun4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023450522374-o06u5nt432uol4ieirttmpk5h3i0b197.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATcHTsEJe81K26UUlE6TRQHhoLmanlxdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023450522374-o06u5nt432uol4ieirttmpk5h3i0b197.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
